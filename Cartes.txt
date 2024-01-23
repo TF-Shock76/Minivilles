@@ -1,0 +1,13 @@
+1	Champs de blé	blé	bleu	Recevez 1 pièce de la banque.	1	6
+2	Ferme	vache	bleu	Recevez 1 pièce de la banque.	1	6
+2~3	Boulangerie	commerce	vert	Recevez 1 pièce de la banque.	1	6
+3	Café	café	rouge	Recevez 1 pièce du joueur qui a lancé les dés.	2	6
+4	Supérette	commerce	vert	Recevez 3 pièces de la banque.	2	6
+5	Forêt	boulon	bleu	Recevez 1 pièce de la banque.	3	6
+6	Stade	tour	violet	Recevez 2 pièces de la part de chaque autre joueur.	6	4
+7	Fromagerie	usine	vert	Recevez 3 pièces de la banque pour chaque établissement de type "vache" que vous possédez.	5	6
+8	Fabrique de meubles	usine	vert	Recevez 3 pièces de la banque pour chaque établissement de type "boulon" que vous possédez.	3	6
+9	Mine	boulon	bleu	Recevez 5 pièces de la banque.	6	6
+9~10	Restaurant	café	rouge	Recevez 2 pièces du joueur qui a lancé les dés.	3	6
+10	Verger	blé	bleu	Recevez 3 pièces de la banque.	3	6
+11~12	Marché de fruits et légumes	fruit	vert	Recevez 2 pièces de la banque pour chaque établissement de type "blé" que vous possédez.	2	6

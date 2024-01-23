@@ -1,0 +1,13 @@
+./minivilles/Controleur.java
+
+./minivilles/metier/Jeu.java
+./minivilles/metier/Joueur.java
+./minivilles/metier/cartes/Carte.java
+./minivilles/metier/cartes/CarteVerte.java
+./minivilles/metier/cartes/CarteBleu.java
+./minivilles/metier/cartes/CarteRouge.java
+./minivilles/metier/cartes/CarteViolette.java
+./minivilles/metier/cartes/CarteMonument.java
+./minivilles/metier/Pioche.java
+
+./minivilles/ihm/Plateau.java

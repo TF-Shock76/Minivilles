@@ -1,0 +1,107 @@
+Joueur 1 : Prenom
+
+Piece	0
+
+Cartes:
+0	Champs de blé
+0	Ferme
+0	Boulangerie
+0	Café
+0	Supérette
+0	Forêt
+0	Centre d'affaire
+0	Stade
+0	Chaîne de télévision
+0	Fromagerie
+0	Fabrique de meubles
+0	Mine
+0	Restaurant
+0	Verger
+0	Marché de fruits de légumes
+
+Monument:
+t	Parc d'attractions
+t	Tour radio
+t	Centre commercial
+t	Gare
+
+Joueur 2 : Prenom
+
+Piece	0
+
+Cartes:
+0	Champs de blé
+0	Ferme
+0	Boulangerie
+0	Café
+0	Supérette
+0	Forêt
+0	Centre d'affaire
+0	Stade
+0	Chaîne de télévision
+0	Fromagerie
+0	Fabrique de meubles
+0	Mine
+0	Restaurant
+0	Verger
+0	Marché de fruits de légumes
+
+Monument:
+t	Parc d'attractions
+t	Tour radio
+t	Centre commercial
+t	Gare
+
+Joueur 3 : Prenom
+
+Piece	0
+
+Cartes:
+0	Champs de blé
+0	Ferme
+0	Boulangerie
+0	Café
+0	Supérette
+0	Forêt
+0	Centre d'affaire
+0	Stade
+0	Chaîne de télévision
+0	Fromagerie
+0	Fabrique de meubles
+0	Mine
+0	Restaurant
+0	Verger
+0	Marché de fruits de légumes
+
+Monument:
+t	Parc d'attractions
+t	Tour radio
+t	Centre commercial
+t	Gare
+
+Joueur 4 : Prenom
+
+Piece	0
+
+Cartes:
+0	Champs de blé
+0	Ferme
+0	Boulangerie
+0	Café
+0	Supérette
+0	Forêt
+0	Centre d'affaire
+0	Stade
+0	Chaîne de télévision
+0	Fromagerie
+0	Fabrique de meubles
+0	Mine
+0	Restaurant
+0	Verger
+0	Marché de fruits de légumes
+
+Monument:
+t	Parc d'attractions
+t	Tour radio
+t	Centre commercial
+t	Gare
